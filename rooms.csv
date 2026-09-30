@@ -1,0 +1,4 @@
+id,room_number,block,capacity,occupied
+R101,101,A-Block,2,0
+R102,102,A-Block,2,0
+R103,103,A-Block,2,1

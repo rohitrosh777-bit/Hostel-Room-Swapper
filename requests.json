@@ -1,0 +1,20 @@
+[
+    {
+        "id": "REQ001",
+        "student_id": "U102",
+        "target_room_id": "R103",
+        "target_student_id": null,
+        "request_type": "CHANGE",
+        "reason": "xyz",
+        "status": "APPROVED"
+    },
+    {
+        "id": "REQ002",
+        "student_id": "U102",
+        "target_room_id": null,
+        "target_student_id": "U101",
+        "request_type": "SWAP",
+        "reason": "xyz",
+        "status": "REJECTED"
+    }
+]

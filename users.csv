@@ -1,0 +1,5 @@
+id,name,reg_no,password_hash,role,current_room_id
+,,,,,
+U102,Rohit,Stud101,6b2c8bd3500e0f75eb228e3e48ead8f8b67d98253d888a229bdfaf1f909e8f83,STUDENT,R103
+U103,Rahul,Stud102,3e5ae5c1588ea8b2046aa63f76d1691d119c97b12dfee804bb6dc73f1fedf81c,STUDENT,R101
+U104,Admin,Admin01,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,ADMIN,R101
